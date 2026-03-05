@@ -1,2 +1,2 @@
-# tic-tac-to
+# tic-tac-toe
 My First Programming
